@@ -76,7 +76,7 @@ Reason[Carcasa Rayada];
 ---
 
 
-# .............-Diario de investigación-.............
+# ....................-Diario de investigación-....................
 
 ## Paso 1: Elegi el proceso y desarrollarlo 
 
