@@ -5,6 +5,7 @@
 #### Thania Lizeth Mendoza Morales
 #### Danna Cristina Rodriguez Santiago
 
+---
 
 ## Descripcion del proceso
 Durante la fabricación de controles de videojuegos pueden surgir  errores en varias etapas del proceso de producción, lo que ocasiona retrabajos y retrasos en el proceso de la fabricacion de los controles de videojuegos.
