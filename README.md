@@ -112,6 +112,4 @@ Hola Gemini, el código que nos diste para el menú, pero al ejecutarlo nos da u
 
 ## Paso 3: Redaccion del diario y creacion del git.hub
 
-### Fase 3: Validación y Estado Final
-
 Una vez terminado el proyecto esta listo, despues se redacto el texto en un archivo read.md en donde esta el diario de investigacion y despues cargar los archivos del codigo y del texto al repositorio de GitHub para generar el enlace final de entrega.
