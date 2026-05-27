@@ -18,7 +18,7 @@ El objetivo es diseñar un sistema en Python  para poder representar de forma vi
 
 ## Proceso principal
 
-###Pasos del proceso
+### Pasos del proceso
 
 1. Soldar Circuitos
 2. Ensamblar Carcasa
@@ -75,7 +75,7 @@ Reason[Carcasa Rayada];
 ---
 
 
-# ...................................-Diario de investigación-...................................
+# .............-Diario de investigación-.............
 
 ## Paso 1: Elegi el proceso y desarrollarlo 
 
